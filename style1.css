@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Tektur&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Orbitron&family=Rubik+Doodle+Shadow&family=Tektur&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=PT+Sans:wght@700&display=swap');
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZQMZXePHZzvpP6kQG7u1JgcJPVFtd6dtLA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.head2{
+    font-family:  Verdana, sans-serif;
+    background-color: gray;
+    padding: 30px 0;
+    height: 25px;
+    background-color: #3D4852;
+    box-shadow: 1px 12px 16px rgba(0, 0, 0, 0.48);
+    margin-bottom: 20px;
+}
+
+
+button{
+    size: 20px;
+	border: none;
+	background: rgb(72, 131, 81);
+	color: #f2f2f2;
+	padding: 6px;
+	border-radius: 5px;
+	transition:  500ms ; 
+    font-size: medium;
+}
+
+.center44{
+  border-radius: 6px;
+  border-color: #202020;
+  box-shadow: 1px 12px 16px rgba(0, 0, 0, 0.48);
+
+}
+
+.sort-by{
+    size: 20px;
+	border: none;
+	background-color: orangered ;
+	color: #f2f2f2;
+	border-radius: 5px;
+	transition:  500ms ; 
+    font-size: medium;
+}
+
+select:hover {
+	background: rgb(29, 90, 120);
+}
+
+button:hover {
+	background: rgb(29, 90, 120);
+}
+
+.ul li{
+    list-style: none;
+    padding: 0px 10px;
+}
+
+.ul{
+    display: flex;  
+    justify-content: center;
+}
+
+ul{
+    margin: 0 60px;
+}
+
+.ul1{
+    margin: 0 70px;
+}
+
+li{
+    list-style: none;
+    padding: 3px;
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    font-family:  'Archivo Black', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    background-color: #3D4852;
+    padding: 15px;
+    box-shadow: -8px 1px 22px rgba(0, 0, 0, 0.37);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.footer{
+    font-family:  Verdana, sans-serif;
+    background-color: gray;
+    padding: 30px;
+    background-color: #202020;
+    box-shadow: -8px 1px 22px rgba(0, 0, 0, 0.37);
+    margin-bottom: 20px 0;
+    margin: auto;
+    box-shadow: -1px -8px 5px rgba(0, 0, 0, 0.24);
+    text-decoration: none;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+}
+
+.center{
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    background-color: #3D4852;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 1px 12px 16px rgba(0, 0, 0, 0.48);
+    border-radius: 10px;
+}
+
+.sort-by2{
+	border: none;
+	background-color: orangered ;
+	color: #f2f2f2;
+	border-radius: 5px;
+	transition:  500ms ; 
+    width: 35px;
+}
+
+.center2{
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    background-color: #3D4852;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 1px 12px 16px rgba(0, 0, 0, 0.48);
+    border-radius: 10px;
+}
+
+.div2{
+  margin: 10px;
+}
+
+.center2 img{
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #202020;
+    box-shadow: -5px 0px 50px rgba(0, 0, 0, 0.36);
+}
+
+a:link {
+    color: #497DDD; 
+  }
+  a:visited {
+    color: orangered;
+  }
+  a:hover {
+    color: #154088; 
+  }
+  a:active {
+    color: #497DDD; 
+  }
+
+  .fff a{
+    color: orangered;
+  }
+
+  h3{
+    padding: 10px;
+  }
+
+  .f1{
+    font-size: small;
+    a:link {
+        color: #ffffff; 
+      }
+      a:visited {
+        color: rgb(255, 255, 255);
+      }
+      a:hover {
+        color: #154088; 
+      }
+      a:active {
+        color: #497DDD; 
+      }
+    
+      .fff a{
+        color: orangered;
+      }
+    
+      h3{
+        padding: 10px;
+      }
+  }
+
+  .center3{
+    padding: 5px;
+    font-family: Times, Times New Roman, serif;
+  }
+
+  .center3 h1{
+    font-family:  'Tektur', sans-serif;;
+  }
+
+  .hg{
+    color: orangered;
+  }
+  
+
+  #Go_Bottom{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+  }
+
+  #Go_Top{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+  }
+
+  .font{
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+  }

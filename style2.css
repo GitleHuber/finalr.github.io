@@ -1,0 +1,186 @@
+body {
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+
+.z img{
+    height: 35px;
+    width: 35px;
+}
+
+.head {
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.head2{
+    margin: auto;
+}
+
+input{
+    width: 500px;
+    height: 20px;
+    border-radius: 9px;
+    border: 1px solid;
+    border-color: rgb(69, 69, 69);
+    background-color: rgb(32, 32, 32);
+    padding: 5px;
+    color: white;
+}
+
+.iframe {
+    border-radius: 11px;
+    margin-left: 40px;
+    width: 1200px;
+    height: 630px;
+    display: flex;
+}
+
+.center {
+    display: flex;
+}
+
+.center2 {
+    font-size: 12px;
+    padding-right: 60px;
+}
+
+.center3 {
+    font-size: 12px;
+    margin-left: 41px;
+    font-family: "Roboto","Arial",sans-serif;
+}
+
+.center43 {
+    margin-left: 33px;
+    display: flex;
+}
+
+.center43 img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 13.5px;
+    color: rgb(255, 255, 255);
+}
+
+.head3{
+    font-family: Arial Narrow, sans-serif;
+}
+
+.head5{
+    display: flex;
+    margin: 5px;
+}
+
+.head5 h2{
+    padding-left: 8px;
+}
+
+.head5 img{
+    border-radius: 4px;
+    height: 30px;
+    width: 30px;
+    margin-top: 17px;
+}
+
+.galery iframe{
+    border-radius: 10px;
+    width: 220px;
+    height: 100px;   
+}
+
+.galery h2{
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.p{
+    font-size: 12px;
+    font-family: "Roboto","Arial",sans-serif;
+    color: darkgray;
+    display: flex;
+}
+
+.button{
+    border-radius: 20px;
+    padding: 7px;
+    font-size: medium;
+    margin-left: 4px;
+    transition:  500ms ; 
+    border: none;
+    margin-right: 600px;
+}
+
+button:hover{
+    background-color: rgb(184, 184, 184);
+}
+
+.button3{
+    size: 20px;
+	border: none;
+	background: white;
+	color: black;
+	padding: 6px;
+	border-radius: 5px;
+	transition:  500ms ; 
+    font-size: medium;
+    margin: 3px
+}
+
+
+.opis{
+    margin-left: 37px;
+    background-color: #272727;  
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.opis p{
+    font-size: 17px;
+}
+
+a:link {
+    color: rgb(174, 174, 174); 
+    font-size: 16px;
+  }
+  a:visited {
+    color: rgb(174, 174, 174);
+  }
+  a:hover {
+    color: rgb(182, 182, 182); 
+  }
+  a:active {
+    color: white; 
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .comment {
+    margin-left: 40px;
+    font-family: "Roboto","Arial",sans-serif;
+  }
+
+  .comment2 img{
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    padding: 5px;
+  }
+
+  .comment2{
+    display: flex;
+    margin: 10px;
+  }
+
+  .comment3{
+    margin-top: 10px;
+  }
+
+  

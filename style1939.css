@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZQMZXePHZzvpP6kQG7u1JgcJPVFtd6dtLA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    color: white;
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-size: 20px;
+    background-color: #3D4852;
+    padding: 20px;
+    box-shadow: 1px 12px 16px rgba(0, 0, 0, 0.48);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.center{
+    font-family: Andale Mono, monospace;
+    margin: auto;
+    max-width: 500px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    padding: 40px 0;
+    border-radius: 10px;
+    box-shadow: -1px 3px 40px rgba(0, 0, 0, 0.4);
+}
+
+.center h2{
+    padding-bottom: 25px;
+}
+
+.okno{
+    display: flex;
+    justify-content: center;    
+}
+
+.reg{
+    margin-top: 200px;
+}
+
+input{
+    font-family: Andale Mono, monospace;
+}
+
+button{
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    width: 30%;
+    margin: auto;
+    margin-top: 17px;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+h3{
+    padding: 4px;
+}

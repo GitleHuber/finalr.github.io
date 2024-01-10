@@ -1,0 +1,152 @@
+body{
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhIVFRUVFRUVFRUVFRUVFRUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDisZFRkrKysrKysrKysrKysrKys3KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAgADB//EABkQAQEBAQEBAAAAAAAAAAAAAAABEQISYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8wrEqgY4wDGxRwEE4cAGNjAxYgGVjYAYnATgsXjYCMZeDASysGAGOMAYsCWVgwEjF42AjAvBgJGrsTYAY4ACuArkDWLAMOFgZiwM2FgGNhOAnGVYwCFmAszAzFgGMWANhYE4MWASF4LASxwAzYzAGLAliwJwYpgRiuYyuQBFIMQQYswFmYGLMDNhYBjKABjjA2kMBZmBmZsBgWAMzABigCcCxQSxwYAIYGZmAK4CuQRS1AEwECUkCQQaEEGLQgC2EBjYrGwE4MXjYCMZWNgAHGwGDMDAsABYAzMABYAMLAmwKYEq5GHkBWNAMzMBMSQVCJSBIMBlQRUgNhkMhwBhw4cBON5XjYCMGOmNgOWCx0sGA52CrsTYCWNgwAzMDAgAzMDBmBgQDK5SrkE1mrA2AsDMzQCYFAYqJipAUrBFQDIcMipATIqQyKkBONi5DgOeNjpibARYmx0sFgOVibHSwWA5WJsdLE2A5iqwYABFBmBAM2sDAsAVylXIIrNWgFmYCzYQaGCKgGKgioCorlMi4CpFyJi5AMOGRQCRlY2AnBYvBYCLE2OlTQc7EWOliegc6mrsRQRYmxdTYCKMWmglmrUAzMDMGAq4SrkEM1YCYmGAS0aAYcZgVFQRUBUXzExUBcXERcBcVImLkBjIzUGRVtQRiaq1NBFRY6VFBFRYtNBFgpqaCaLFWCgiwVVFBNYgAzMDK5TquKCazMDGCECqJigMMEIKiomKgLi5URUBfK+YiLlBapUxQKwonTQDow6noGqeqpNBFiaq1FBNTVVNBNTVVNBNqVVNANWrAlqbQCaxYArhNVyCWagFBjAJBAxSVQFRUTFQFLlRFQFxcc9UDp6LnFaCzaiU6BptF+C9AbXO02i0AK1qaAqLVVNBNFNTaAqVUAKKaKAoUADFINVcJXxAcrGxmAlmA4WYDISwGKZgVFRmBUMZgVKZSwMdZgbWxmBNorMATWYAmswJGMwCxNZgEjVmBk2FgaxOFgGL4Zgf/9k=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+    color: white;
+}
+
+.headear{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px 0;
+    border: 2px solid;
+    border-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+
+.centre{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border: 2px solid;
+    border-color: black;
+    display: flex;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.centre img{
+    border: 3px solid;
+    border-color: black;
+}
+
+.centre2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 15px;
+    margin: 15px 0;
+    border: 2px solid;
+    border-color: black;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+}
+
+.centre2 img{
+    margin: 10px;
+    border: 3px solid;
+    border-color: black;
+    height: 254px;
+    width: 200px;
+}
+
+.imges{
+    display: flex;
+}
+
+.down{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.downimg1 img{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+  }
+
+  button{
+    font-size: 16px;
+  }
+
+  .centre3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    border: 2px solid;
+    border-color: black;
+    font-size: 20px;
+}
+
+.centre3 h2{
+    font-display: optional;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.comment{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8jK66qCYUrhsgkIxBnmoLZl208KmsADMqA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    border: 2px solid;
+    border-color: black;
+    font-size: 20px;
+    margin: 10px 0;
+    font-family: Verdana, sans-serif;
+}
+
+.comment img{
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.comments{
+    display: flex;
+}
+
+.User234254625{
+    font-family: Verdana, sans-serif;
+    display: flex;
+    margin: 3px;
+}
+.ryan{
+    display: flex;
+}
+
+.ryan img{
+    border-radius: 50%;
+}
+
+.ryancomment{
+    margin: 3px;
+}
+
+.nocomment{
+    font-family: Arial Narrow, sans-serif;
+    text-align: center;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    background-color: gray;
+}
+
